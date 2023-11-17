@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkslategrey;
+    padding: 0% 5% 0% 5%;
+}
+h1{
+    color: white;
+}
+
+a{
+    background-color: white;
+    color: darkslategrey;
+    text-decoration: none;
+    margin-left: 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
